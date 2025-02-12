@@ -1,2 +1,0 @@
-# yanislavpanayotov
-readme
